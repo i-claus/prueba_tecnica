@@ -76,5 +76,6 @@ class SpotifyWebAPI
 
         return $this->lastResponse['body'];
     }
+}
 
 ?>
